@@ -2,7 +2,7 @@
 CRUD Database for Vehicle registration
 
 <p align="center">
-    <img src="sitecv/img/dbms.jpg"  width=600>
+    <img src="editdb.jfif"  width=500>
     <br>
     <br>
    </p>
